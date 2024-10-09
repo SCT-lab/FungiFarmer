@@ -1,8 +1,13 @@
-:Author: orestisspyroupappas
-:Email:
-:Date: 05/06/2024
-:Revision: version#
-:License: Public Domain
+# Fungi Farmer
+
+![Oyster Mushroom Visual Example](https://https://github.com/SCT-lab/FungiFarmer/blob/main/Images/OM.jpg width="400")
+
+## What is Fungi Farmer?
+Fungi Farmer is a dashboard prompt that was developed to display the predicted growth based on a constant cultivation condition and the users’ input on the length of the oyster mushroom bunch. The prompt uses the XGB algorithm for forecasting growth.
+
+## Features
+* <img src="https://github.com/SCT-lab/DigiFungi/blob/main/images/logo.png" width="20"> Jypter Notebook Code
+* <img src="https://github.com/SCT-lab/DigiFungi/blob/main/images/logo.png" width="20"> Ardunio code for IoT sensors
 
 = Project: Python Code for Oyster Mushroom Growth Prediction using Machine Learning
 
