@@ -1,6 +1,6 @@
 # Fungi Farmer
 
-![Oyster Mushroom Visual Example](https://github.com/SCT-lab/FungiFarmer/blob/main/Images/OM.jpg width="400")
+![Oyster Mushroom Visual Example](https://github.com/SCT-lab/FungiFarmer/blob/main/Images/OM.jpg)
 
 ## What is Fungi Farmer?
 Fungi Farmer is a dashboard prompt that was developed to display the predicted growth based on a constant cultivation condition and the users’ input on the length of the oyster mushroom bunch. The prompt uses the XGB algorithm for forecasting growth.
